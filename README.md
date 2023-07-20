@@ -11,8 +11,8 @@ The university data is loaded into the database using the PostgreSQL server. Fol
 
 **Exercise 4**:  SQL Query which takes the roll number of a student as input from a user and returns the CGPA of the student.
 
-**Exercise 5**: <br>
-Return the top-k students for the following three cases: [Use the ranking() function on CGPA] : <br>
+**Exercise 5**:  Integer k is taken as input from the user<br>
+Return the top-k students for the following three cases : <br>
    a) Top-k students with highest CGPA. <br>
    b) Top-k students with highest CGPA in a given department. <br>
    c) Top-k students with highest CGPA enrolled in a given course (need to consider all the students who have taken the course across all the offerings of the course).
